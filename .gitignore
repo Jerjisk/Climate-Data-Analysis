@@ -1,0 +1,12 @@
+# ERA5 / climate data (do NOT track large datasets)
+Data/ERA5/
+*.nc
+
+# PyCharm project files
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
