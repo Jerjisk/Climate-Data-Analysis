@@ -2,7 +2,7 @@ import cdsapi
 
 c = cdsapi.Client()
 
-years = [str(y) for y in range(1991, 2026)]
+years = [str(y) for y in range(1990, 2026)]
 
 for year in years:
 
