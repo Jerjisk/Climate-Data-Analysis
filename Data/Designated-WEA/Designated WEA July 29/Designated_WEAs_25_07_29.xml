@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<title>Designated_WEAs_25_07_29</title>
+				<geoform>vector digital data</geoform>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>Description: This data package contains a shapefile of the Designated Wind Energy Areas (WEAs) for Nova Scotia. The WEA shapefile has been attributed with the WEA name (WEA) and approximate area in kilometers squared for each WEA (Area_km2).Disclaimer: The DATA is provided to the USER on an "as is" basis, without warranties of any kind, express or implied. The entire risk as to the quality and accuracy of the DATA is with the USER and the USER shall use his/her own judgement in making use of the DATA or drawing conclusions based upon it. The Nova Scotia Department of Energy and the Government of Canada shall not be liable to the USER, his/her clients, servants, agents, contractors, assigns, or to any other person for any loss or damage of any kind including personal injury or death arising from the use of the DATA or accompanying written materials, or from errors, deficiencies or faults therein, whether such damage is caused by negligence or otherwise. The USER has the responsibility to consult the authors or original sources as necessary for any questions or uncertainties about the sources, accuracy, and/or use of this data.</abstract>
+			<purpose>This shapefile contains the Designated Wind Energy Areas (WEAs) for Nova Scotia.</purpose>
+		</descript>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Designated Wind Energy Areas</themekey>
+				<themekey>Offshore Wind</themekey>
+				<themekey>Nova Scotia</themekey>
+			</theme>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst></useconst>
+		<datacred>Nova Scotia Department of Energy and The Government of Canada</datacred>
+		<native>Esri ArcGIS 13.5.0.57366</native>
+	</idinfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>0</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Designated_WEAs_25_07_29</enttypl>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>WEA</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>Shape_Leng</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>Areakm2</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>Shape_Le_1</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>Shape_Area</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<metainfo>
+		<metd>20250728</metd>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+</metadata>
